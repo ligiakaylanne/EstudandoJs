@@ -1,0 +1,1 @@
+console.log("Luiz Otavio" && 0 && "Maria")
